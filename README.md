@@ -66,9 +66,6 @@ blablacardaily://sponsor_affiliation
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=s8f4o036a2dv)
 - [🔗 Wrapped in **staging** Adjust link](https://l6v5.adj.st/openapp?adjust_t=1hskawr2&adjust_deeplink=blablacardaily%3A%2F%2Fsponsor_affiliation%3Fsponsor_uuid%3D545e51f7-741d-4522-bd07-b010be2c34ef%26affiliation_code%3Ds8f4o036a2dv&adjust_fallback=https%3A%2F%2Fblablacardaily.com&adj_redirect_macos=https%3A%2F%2Fblablacardaily.com)
-- [🔗 Affiliation code `94yyzxlhospp`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=94yyzxlhospp)
-- [🔗 Affiliation code `z9ygb4fx8pqp`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=z9ygb4fx8pqp)
-- [🔗 Affiliation code `vm9kav61bp3e`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=vm9kav61bp3e)
 - [🔗 Affiliation code `s8f4o036a2dv`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=s8f4o036a2dv)
 - [🔗 Affiliation code `zvtc14d8ipwd`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=zvtc14d8ipwd)
 - [🔗 Affiliation code `lsghap9rn718`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=lsghap9rn718)
