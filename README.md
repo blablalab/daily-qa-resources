@@ -174,7 +174,6 @@ blablacardaily://book-a-ride
 - [🔗 With `blablacardaily://` scheme](blablacardaily://book-a-ride?pickup=my_location&dropoff_latitude=48.11177009606368&dropoff_longitude=-1.6775474034472833)
 - [🔗 With `https://` scheme](https://open.blablacardaily.com/book-a-ride?pickup=my_location&dropoff_latitude=48.11177009606368&dropoff_longitude=-1.6775474034472833)
 
-
 ## Adjust links
 
 ### Staging (`l6v5.adj.st`)
