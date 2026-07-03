@@ -40,6 +40,15 @@ blablacardaily://statistics?tab=current_year&auto_share=true
 - [🔗 Tab: Current Year](blablacardaily://statistics?tab=current_year)
 - [🔗 Tab: Current Year & Auto-Share](blablacardaily://statistics?tab=current_year&auto_share=true)
 
+#### Communication preferences
+
+##### Performance measurement
+
+```
+blablacardaily://settings_performance_measurement
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://settings_performance_measurement)
 
 ## Company (B2B)
 
