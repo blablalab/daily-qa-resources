@@ -48,9 +48,6 @@ blablacardaily://communication_preferences
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences)
 
-<details>
-
-<summary>Communication preferences channels</summary>
 
 ##### Push
 
@@ -91,10 +88,6 @@ blablacardaily://communication_preferences?channel=PERFORMANCE_MEASUREMENT
 ```
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=PERFORMANCE_MEASUREMENT)
-
-</details>
-
-
 
 ## Company (B2B)
 
