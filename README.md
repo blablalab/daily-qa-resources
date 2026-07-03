@@ -48,6 +48,42 @@ blablacardaily://communication_preferences
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences)
 
+<details>
+
+<summary>Communication preferences channels</summary>
+
+##### Push
+
+```
+blablacardaily://communication_preferences?channel=PUSH
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=PUSH)
+
+##### Email
+
+```
+blablacardaily://communication_preferences?channel=EMAIL
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=EMAIL)
+
+##### SMS
+
+```
+blablacardaily://communication_preferences?channel=SMS
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=SMS)
+
+##### Calls
+
+```
+blablacardaily://communication_preferences?channel=CALL
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=CALL)
+
 ##### Performance measurement
 
 ```
@@ -55,6 +91,10 @@ blablacardaily://communication_preferences?channel=PERFORMANCE_MEASUREMENT
 ```
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://communication_preferences?channel=PERFORMANCE_MEASUREMENT)
+
+</details>
+
+
 
 ## Company (B2B)
 
