@@ -126,6 +126,44 @@ blablacardaily://carpooling_lines
   ?stop_id=ebcf2f16-5362-49f6-9760-187788333e6b
 ```
 
+<details>
+  <summary>SQL computing markdown for a given line (run it <a href="https://redash.preprod-1.blbl.cr/queries/new">here</a>)</summary>
+
+  ```sql
+  (
+      SELECT '| 🚏 Stop | 🧭 Direction | 🔗 Link |' as markdown_table_header
+  )
+  UNION ALL
+  (
+      SELECT '|:-------:|:------------:|:-------:|' as markdown_table_header_separator
+  )
+  UNION ALL
+  (
+      SELECT
+          ' | '
+            || substr(mp.name, length('Arrêt | '))
+            || ' | '
+            || (CASE 
+              WHEN stop.direction = 'FORWARD' THEN 'Carcassonne'
+              WHEN stop.direction = 'BACKWARD' THEN 'Pépieux'
+              ELSE 'Carcassonne + Pépieux' END
+            )
+            || ' | '
+            || '[`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=' || stop.uuid || ')'
+            || ' | ' as markdown_table_entry
+      FROM
+          carpooling_line_stop stop
+          INNER JOIN meeting_point mp ON mp.uuid = stop.meeting_point_uuid
+      WHERE
+          stop.carpooling_line_uuid = (
+              SELECT uuid FROM carpooling_line WHERE name = 'Pépieux - Carcassonne'
+          )
+      ORDER BY
+          stop.order ASC
+  )
+  ```
+</details>
+
 #### Line "Carcassonne - Pépieux" (real line)
 
 |               🚏 Stop                |     🧭 Direction      |                                                   🔗 Link                                                    |
