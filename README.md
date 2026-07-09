@@ -199,17 +199,17 @@ blablacardaily://carpooling_lines
 | Veigy-Foncenex - Douane |      Thonon-les-Bains      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=2ca2e7c8-db8f-4875-9cab-e244ac16e8ea) |
 
 
-#### ~Line "Bastille - Javel"~ (fake line, currently decommissioned)
+#### ~Line "Bastille - Javel"~ (fake line)
 
 |      🚏 Stop        |       🧭 Direction         |                                                   🔗 Link                                                    |
 |:-------------------:|:--------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|      Bastille       |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e4c3be1b-5cc4-4bd3-9704-167f13c1c147) |
-|   Musée du Louvre   |      Bastille & Javel      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=990cee6c-69ed-42ab-8186-92551802fe7b) |
-| Hôtel des Invalides |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=56e4a555-bffe-4ab8-bb54-37e37fce6bf0) |
-| Hôtel des Invalides |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=47ede402-dacb-4a54-8eac-2e5c3c3db503) |
-|     Tour Eiffel     |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0985deba-5b3c-4aa4-9836-10bc4ae3c80e) |
-|     Tour Eiffel     |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=378f7673-b03d-4217-b32d-4b3384aac933) |
-|        Javel        |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=6af44d2c-584c-4295-96ea-f1c75d652eb3) |
+|      Bastille       |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c9086022-0d2e-4f6d-a200-3b7fb7e43f3e) |
+|   Musée du Louvre   |      Bastille & Javel      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=52d4790a-917e-40cf-9773-a2e807e570fb) |
+| Hôtel des Invalides |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e15f1abf-daa0-4911-8405-0b04a841bc6a) |
+| Hôtel des Invalides |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=39db1f5c-0b5a-4615-b8ca-663520cf63b4) |
+|     Tour Eiffel     |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9310c4eb-7800-4faf-8855-f6460ad88647) |
+|     Tour Eiffel     |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a4f2f944-4dc2-4aa0-bbb7-98fc285aa40f) |
+|        Javel        |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=58a5da08-61a3-4191-aece-680a71c2d9af) |
 
 
 ### Driver scanning a passenger QR code
