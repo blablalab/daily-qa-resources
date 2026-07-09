@@ -126,7 +126,25 @@ blablacardaily://carpooling_lines
   ?stop_id=ebcf2f16-5362-49f6-9760-187788333e6b
 ```
 
-#### Line "Bastille - Javel"
+#### Line "Carcassonne - Pépieux" (real line)
+
+|               🚏 Stop                |     🧭 Direction      |                                                   🔗 Link                                                    |
+| :----------------------------------: | :-------------------: | :----------------------------------------------------------------------------------------------------------: |
+|               Pépieux                | Carcassonne + Pépieux | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c27e5d31-c84d-4b0a-8325-b0c9c1c96447) |
+|                Azille                |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=1666dea9-d189-49ab-9584-3799a321af0d) |
+|     Rieux-Minervois - Eglantine      |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=34438db7-a2d4-4c98-aeb4-ac464aff69e7) |
+|      Rieux-Minervois - Bleuets       |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=8a693ec2-7db4-400e-869b-f436fcc512ab) |
+|      Rieux-Minervois - Bleuets       |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9c5f488c-e2a0-46e3-8df1-05b557e0787a) |
+|          Peyriac-Minervois           |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=ad18b36b-7ed1-4ab2-9b7b-fdf25aa1cba7) |
+|          Peyriac-Minervois           |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=11a331f1-088c-42c9-be03-9504518d0718) |
+|               Villegly               |      Carcassone       | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=7395238e-c6ce-47b7-9206-e3cc6d2a3fac) |
+|               Villegly               |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=3c627083-67b8-4f56-8420-9d4b47e572da) |
+|              Villalier               |      Carcassone       | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=ad9942ad-8d73-4976-8d5e-866f39d8c3a4) |
+|              Villalier               |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9ffb87a8-24b8-45d4-b43c-d18f157ba635) |
+|            ZA Pont Rouge             |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=b888fc90-0d2f-41f6-9e9b-bc5a3c37a1f7) |
+| Carcassonne - Gare routière Varsovie | Carcassonne + Pépieux | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=64b0add0-42cb-41ed-bfda-58276ef36467) |
+
+#### ~Line "Bastille - Javel"~ (fake line, currently decommissioned)
 
 |      🚏 Stop        |       🧭 Direction         |                                                   🔗 Link                                                    |
 |:-------------------:|:--------------------------:|:------------------------------------------------------------------------------------------------------------:|
@@ -138,7 +156,7 @@ blablacardaily://carpooling_lines
 |     Tour Eiffel     |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=378f7673-b03d-4217-b32d-4b3384aac933) |
 |        Javel        |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=6af44d2c-584c-4295-96ea-f1c75d652eb3) |
 
-#### Line "Douane de Veigny - Techsky"
+#### ~Line "Douane de Veigny - Techsky"~ (fake line, currently decommissioned)
 
 |      🚏 Stop        |       🧭 Direction         |                                                   🔗 Link                                                    |
 |:-------------------:|:--------------------------:|:------------------------------------------------------------------------------------------------------------:|
