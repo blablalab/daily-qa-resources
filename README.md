@@ -169,7 +169,7 @@ blablacardaily://carpooling_lines
 |               🚏 Stop                |     🧭 Direction      |                                                   🔗 Link                                                    |
 | :----------------------------------: | :-------------------: | :----------------------------------------------------------------------------------------------------------: |
 |               Pépieux                | Carcassonne + Pépieux | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c27e5d31-c84d-4b0a-8325-b0c9c1c96447) |
-|                Azille                |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=1666dea9-d189-49ab-9584-3799a321af0d) |
+|                Azille                |      Carcassonne + Pépieux      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=1666dea9-d189-49ab-9584-3799a321af0d) |
 |     Rieux-Minervois - Eglantine      |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=34438db7-a2d4-4c98-aeb4-ac464aff69e7) |
 |      Rieux-Minervois - Bleuets       |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=8a693ec2-7db4-400e-869b-f436fcc512ab) |
 |      Rieux-Minervois - Bleuets       |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9c5f488c-e2a0-46e3-8df1-05b557e0787a) |
@@ -179,7 +179,7 @@ blablacardaily://carpooling_lines
 |               Villegly               |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=3c627083-67b8-4f56-8420-9d4b47e572da) |
 |              Villalier               |      Carcassonne      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=ad9942ad-8d73-4976-8d5e-866f39d8c3a4) |
 |              Villalier               |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=b888fc90-0d2f-41f6-9e9b-bc5a3c37a1f7) |
-|            ZA Pont Rouge             |        Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9ffb87a8-24b8-45d4-b43c-d18f157ba635) |
+|            ZA Pont Rouge             |        Carcassonne + Pépieux        | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9ffb87a8-24b8-45d4-b43c-d18f157ba635) |
 | Carcassonne - Gare routière Varsovie | Carcassonne + Pépieux | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=64b0add0-42cb-41ed-bfda-58276ef36467) |
 
 
