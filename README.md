@@ -130,36 +130,44 @@ blablacardaily://carpooling_lines
   <summary>SQL computing markdown for a given line (run it <a href="https://redash.preprod-1.blbl.cr/queries/new">here</a>)</summary>
 
   ```sql
-  (
-      SELECT '| 🚏 Stop | 🧭 Direction | 🔗 Link |' as markdown_table_header
-  )
-  UNION ALL
-  (
-      SELECT '|:-------:|:------------:|:-------:|' as markdown_table_header_separator
-  )
-  UNION ALL
-  (
+  -- Replace the line name and directions in the following WITH block:
+  WITH line_config AS (
       SELECT
-          ' | '
-            || substr(mp.name, length('Arrêt | '))
-            || ' | '
-            || (CASE 
-              WHEN stop.direction = 'FORWARD' THEN 'Carcassonne'
-              WHEN stop.direction = 'BACKWARD' THEN 'Pépieux'
-              ELSE 'Carcassonne + Pépieux' END
-            )
-            || ' | '
-            || '[`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=' || stop.uuid || ')'
-            || ' | ' as markdown_table_entry
-      FROM
-          carpooling_line_stop stop
-          INNER JOIN meeting_point mp ON mp.uuid = stop.meeting_point_uuid
-      WHERE
-          stop.carpooling_line_uuid = (
-              SELECT uuid FROM carpooling_line WHERE name = 'Pépieux - Carcassonne'
+          'Pépieux - Carcassonne' as line_name, -- should match the entry in `carpooling_line`
+          'Carcassonne' as forward_direction,
+          'Pépieux' as backward_direction
+  )
+  (
+    SELECT '| 🚏 Stop | 🧭 Direction | 🔗 Link |' as markdown_table_header
+  )
+  UNION ALL
+  (
+    SELECT '|:-------:|:------------:|:-------:|' as markdown_table_header_separator
+  )
+  UNION ALL
+  (
+    SELECT
+        ' | '
+          || substr(mp.name, length('Arrêt | '))
+          || ' | '
+          || (CASE 
+            WHEN stop.direction = 'FORWARD' THEN line_config.forward_direction
+            WHEN stop.direction = 'BACKWARD' THEN line_config.backward_direction
+            ELSE line_config.forward_direction || ' + ' || line_config.backward_direction END
           )
-      ORDER BY
-          stop.order ASC
+          || ' | '
+          || '[`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=' || stop.uuid || ')'
+          || ' | ' as markdown_table_entry
+    FROM
+        line_config,
+        carpooling_line_stop stop
+        INNER JOIN meeting_point mp ON mp.uuid = stop.meeting_point_uuid
+    WHERE
+        stop.carpooling_line_uuid = (
+            SELECT uuid FROM carpooling_line WHERE name = line_config.line_name
+        )
+    ORDER BY
+        stop.order ASC
   )
   ```
 </details>
