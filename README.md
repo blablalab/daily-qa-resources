@@ -193,31 +193,31 @@ blablacardaily://carpooling_lines
 
 #### Line "Thonon - Veigy" (real line)
 
-|      🚏 Stop        |       🧭 Direction         |                                                   🔗 Link                                                    |
-|:-------------------:|:--------------------------:|:------------------------------------------------------------------------------------------------------------:|
-| Thonon-les-Bains - Jules Ferry | Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a8766966-ed03-4380-bd25-b7d84142fcaa) |
-| Thonon-les-Bains - Létroz | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=573f79d3-5c69-4611-be01-938bf09dc516) |
-|   Croisée d’Anthy   | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0a5f2411-5140-4adb-9ba9-89dd8f180bf8) |
-| Anthy-sur-Léman - Cinq Chemins | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e145776a-546f-440c-a76a-f23344447b22) |
-|    Sciez - Mairie   | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38b90715-7594-4c77-a7b3-32453975bc27) |
-|  Massongy - Centre  | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38023eb1-cf39-4530-8150-9c6539f8270e) |
-| Douvaine - Champ de place | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=d248ac9e-98aa-4f49-868c-7d8faa5b5e6a) |
-|  Douvaine - Église  | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0749f2df-14ba-4e19-8272-0cf750b68ef7) |
-| Veigy-Foncenex - Golf | Thonon-les-Bains & Veigy-Foncenex | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c0521347-6d8c-456a-87f4-79510f2c1a8c) |
-| Veigy-Foncenex - Douane |      Thonon-les-Bains      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=2ca2e7c8-db8f-4875-9cab-e244ac16e8ea) |
+| 🚏 Stop | 🧭 Direction | 🔗 Link |
+|:-------:|:------------:|:-------:|
+ |  Thonon-les-Bains - Jules Ferry | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a8766966-ed03-4380-bd25-b7d84142fcaa) | 
+ |  Thonon-les-Bains - Létroz | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=573f79d3-5c69-4611-be01-938bf09dc516) | 
+ |  Croisée d’Anthy | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0a5f2411-5140-4adb-9ba9-89dd8f180bf8) | 
+ |  Anthy-sur-Léman - Cinq Chemins | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e145776a-546f-440c-a76a-f23344447b22) | 
+ |  Sciez - Mairie | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38b90715-7594-4c77-a7b3-32453975bc27) | 
+ |  Massongy - Centre | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38023eb1-cf39-4530-8150-9c6539f8270e) | 
+ |  Douvaine - Champ de place | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=d248ac9e-98aa-4f49-868c-7d8faa5b5e6a) | 
+ |  Douvaine - Église | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0749f2df-14ba-4e19-8272-0cf750b68ef7) | 
+ |  Veigy-Foncenex - Golf | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c0521347-6d8c-456a-87f4-79510f2c1a8c) | 
+ |  Veigy-Foncenex - Douane | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=2ca2e7c8-db8f-4875-9cab-e244ac16e8ea) | 
 
 
-#### ~Line "Bastille - Javel"~ (fake line)
+#### Line "Bastille - Javel" (fake line)
 
-|      🚏 Stop        |       🧭 Direction         |                                                   🔗 Link                                                    |
-|:-------------------:|:--------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|      Bastille       |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c9086022-0d2e-4f6d-a200-3b7fb7e43f3e) |
-|   Musée du Louvre   |      Bastille & Javel      | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=52d4790a-917e-40cf-9773-a2e807e570fb) |
-| Hôtel des Invalides |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e15f1abf-daa0-4911-8405-0b04a841bc6a) |
-| Hôtel des Invalides |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=39db1f5c-0b5a-4615-b8ca-663520cf63b4) |
-|     Tour Eiffel     |           Javel            | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9310c4eb-7800-4faf-8855-f6460ad88647) |
-|     Tour Eiffel     |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a4f2f944-4dc2-4aa0-bbb7-98fc285aa40f) |
-|        Javel        |          Bastille          | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=58a5da08-61a3-4191-aece-680a71c2d9af) |
+| 🚏 Stop | 🧭 Direction | 🔗 Link |
+|:-------:|:------------:|:-------:|
+ |  Bastille | Bastille + Javel | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c9086022-0d2e-4f6d-a200-3b7fb7e43f3e) | 
+ |  Musée du Louvre | Bastille + Javel | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=52d4790a-917e-40cf-9773-a2e807e570fb) | 
+ |  Hôtel des Invalides | Bastille | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e15f1abf-daa0-4911-8405-0b04a841bc6a) | 
+ |  Hôtel des Invalides | Javel | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=39db1f5c-0b5a-4615-b8ca-663520cf63b4) | 
+ |  Tour Eiffel | Bastille | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=9310c4eb-7800-4faf-8855-f6460ad88647) | 
+ |  Tour Eiffel | Javel | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a4f2f944-4dc2-4aa0-bbb7-98fc285aa40f) | 
+ |  Javel | Bastille + Javel | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=58a5da08-61a3-4191-aece-680a71c2d9af) | 
 
 
 ### Driver scanning a passenger QR code
