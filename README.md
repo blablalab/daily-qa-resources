@@ -195,16 +195,16 @@ blablacardaily://carpooling_lines
 
 | 🚏 Stop | 🧭 Direction | 🔗 Link |
 |:-------:|:------------:|:-------:|
- |  Thonon-les-Bains - Jules Ferry | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a8766966-ed03-4380-bd25-b7d84142fcaa) | 
- |  Thonon-les-Bains - Létroz | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=573f79d3-5c69-4611-be01-938bf09dc516) | 
- |  Croisée d’Anthy | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0a5f2411-5140-4adb-9ba9-89dd8f180bf8) | 
- |  Anthy-sur-Léman - Cinq Chemins | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e145776a-546f-440c-a76a-f23344447b22) | 
- |  Sciez - Mairie | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38b90715-7594-4c77-a7b3-32453975bc27) | 
- |  Massongy - Centre | Thonon + Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38023eb1-cf39-4530-8150-9c6539f8270e) | 
- |  Douvaine - Champ de place | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=d248ac9e-98aa-4f49-868c-7d8faa5b5e6a) | 
- |  Douvaine - Église | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0749f2df-14ba-4e19-8272-0cf750b68ef7) | 
- |  Veigy-Foncenex - Golf | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c0521347-6d8c-456a-87f4-79510f2c1a8c) | 
- |  Veigy-Foncenex - Douane | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=2ca2e7c8-db8f-4875-9cab-e244ac16e8ea) | 
+ |  Thonon-les-Bains - Jules Ferry | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=a8766966-ed03-4380-bd25-b7d84142fcaa) | 
+ |  Thonon-les-Bains - Létroz | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=573f79d3-5c69-4611-be01-938bf09dc516) | 
+ |  Croisée d’Anthy | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0a5f2411-5140-4adb-9ba9-89dd8f180bf8) | 
+ |  Anthy-sur-Léman - Cinq Chemins | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=e145776a-546f-440c-a76a-f23344447b22) | 
+ |  Sciez - Mairie | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38b90715-7594-4c77-a7b3-32453975bc27) | 
+ |  Massongy - Centre | Veigy + Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=38023eb1-cf39-4530-8150-9c6539f8270e) | 
+ |  Douvaine - Champ de place | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=d248ac9e-98aa-4f49-868c-7d8faa5b5e6a) | 
+ |  Douvaine - Église | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=0749f2df-14ba-4e19-8272-0cf750b68ef7) | 
+ |  Veigy-Foncenex - Golf | Thonon | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=c0521347-6d8c-456a-87f4-79510f2c1a8c) | 
+ |  Veigy-Foncenex - Douane | Veigy | [`blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=2ca2e7c8-db8f-4875-9cab-e244ac16e8ea) | 
 
 
 #### Line "Bastille - Javel" (fake line)
